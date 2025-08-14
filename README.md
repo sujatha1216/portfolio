@@ -14,3 +14,6 @@ Welcome to my portfolio! This repo showcases a variety of my projects using HTML
 
 ---
 
+##Link to visit my Portfolio
+
+https://sujatha1216.github.io/portfolio/
